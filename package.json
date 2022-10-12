@@ -1,0 +1,18 @@
+{
+  "name": "sa14-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "มังกรอีสานหวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"มังกรอีสานหวย",
+"วิธีแทงหวย24",
+"lottovipcompany",
+"สมัครแทงหวยในเว็บ",
+"โชคดีหวย"
+],
+  "repository": "https://github.com/setteebet/sa14-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
